@@ -54,6 +54,7 @@ Caso utilize este material em pesquisas, publicações ou atividades acadêmicas
 - Maffini, A. L. (2026). VSCode para Iniciantes: Configuração, Python e Primeiros Passos. Zenodo. https://doi.org/10.5281/zenodo.20451655
 - Maffini, A. L. (2026). Overture Maps para Iniciantes: Download, Estrutura de Dados e Uso no QGIS. Zenodo. https://doi.org/10.5281/zenodo.20451759
 - Maffini, A. L. (2026). Tutorial Open Building para Iniciantes: Fundamentos, Dados e Aplicações no QGIS. Zenodo. https://doi.org/10.5281/zenodo.20452175
+- Maffini, A. L. (2026). Reclassificando Dados do Overture Maps: Comércio, Serviços e Outras Atividades com Python. Zenodo. https://doi.org/10.5281/zenodo.20452842
 
 
 ## 📌 Licenciamento e Uso
