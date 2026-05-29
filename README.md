@@ -50,6 +50,7 @@ Caso utilize este material em pesquisas, publicações ou atividades acadêmicas
 
 ## Referências dos Materiais (DOI)
 
+- Maffini, A. L. (2026). QGIS para Iniciantes: Fundamentos, Ferramentas e Boas Práticas. Zenodo. https://doi.org/10.5281/zenodo.20444019
 
 
 ## 📌 Licenciamento e Uso
