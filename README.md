@@ -56,6 +56,7 @@ Caso utilize este material em pesquisas, publicações ou atividades acadêmicas
 - Maffini, A. L. (2026). Tutorial Open Building para Iniciantes: Fundamentos, Dados e Aplicações no QGIS. Zenodo. https://doi.org/10.5281/zenodo.20452175
 - Maffini, A. L. (2026). Reclassificando Dados do Overture Maps: Comércio, Serviços e Outras Atividades com Python. Zenodo. https://doi.org/10.5281/zenodo.20452842
 - Maffini, A. L. (2026). Script para Reclassificar Dados do Overture Maps. Zenodo. https://doi.org/10.5281/zenodo.20452891
+- Maffini, A. L. (2026). Dados Geoespaciais para Iniciantes: Pensamento Espacial, Inteligência Territorial e Geotecnologias. Zenodo. https://doi.org/10.5281/zenodo.20469532
 
 
 ## 📌 Licenciamento e Uso
