@@ -59,6 +59,7 @@ Caso utilize este material em pesquisas, publicações ou atividades acadêmicas
 - Maffini, A. L. (2026). Dados Geoespaciais para Iniciantes: Pensamento Espacial, Inteligência Territorial e Geotecnologias. Zenodo. https://doi.org/10.5281/zenodo.20469532
 - Maffini, A. L. (2026). Classificação de Dados no QGIS para Iniciantes: Simbologia Graduada, Métodos Estatísticos e Boas Práticas Cartográficas. Zenodo. https://doi.org/10.5281/zenodo.20474194
 - Maffini, A. L. (2026). Calculadora de Campo no QGIS para Iniciantes: Expressões, Fórmulas e Manipulação de Dados Vetoriais. Zenodo. https://doi.org/10.5281/zenodo.20474247
+- Maffini, A. L. (2026). Correlação Espacial Não é Causalidade. Zenodo. https://doi.org/10.5281/zenodo.20474302
 
 
 ## 📌 Licenciamento e Uso
