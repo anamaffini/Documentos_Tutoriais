@@ -63,6 +63,7 @@ Caso utilize este material em pesquisas, publicações ou atividades acadêmicas
 - Maffini, A. L. (2026). Criação de Mapas no QGIS para Iniciantes: Layout de Impressão, Elementos Cartográficos e Exportação Final. Zenodo. https://doi.org/10.5281/zenodo.20527417
 - Maffini, A. L. (2026). Escala Espacial para Iniciantes: Como a Escala Muda o Que Enxergamos no Território. Zenodo. https://doi.org/10.5281/zenodo.20527536
 - Maffini, A. L. (2026). A História do SIG/GIS. Zenodo. https://doi.org/10.5281/zenodo.20527631
+- Maffini, A. L. (2026). Tutorial Operações Espaciais no QGIS para Iniciantes: Ferramentas Essenciais para Análises Territoriais. Zenodo. https://doi.org/10.5281/zenodo.20528973
 
 
 ## 📌 Licenciamento e Uso
