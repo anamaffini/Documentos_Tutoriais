@@ -64,6 +64,7 @@ Caso utilize este material em pesquisas, publicações ou atividades acadêmicas
 - Maffini, A. L. (2026). Escala Espacial para Iniciantes: Como a Escala Muda o Que Enxergamos no Território. Zenodo. https://doi.org/10.5281/zenodo.20527536
 - Maffini, A. L. (2026). A História do SIG/GIS. Zenodo. https://doi.org/10.5281/zenodo.20527631
 - Maffini, A. L. (2026). Tutorial Operações Espaciais no QGIS para Iniciantes: Ferramentas Essenciais para Análises Territoriais. Zenodo. https://doi.org/10.5281/zenodo.20528973
+- Maffini, A. L. (2026). OpenStreetMap para Iniciantes: Download de Dados Urbanos com Overpass Turbo e QGIS. Zenodo. https://doi.org/10.5281/zenodo.20555917
 
 
 ## 📌 Licenciamento e Uso
