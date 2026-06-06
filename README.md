@@ -67,6 +67,7 @@ Caso utilize este material em pesquisas, publicações ou atividades acadêmicas
 - Maffini, A. L. (2026). OpenStreetMap para Iniciantes: Download de Dados Urbanos com Overpass Turbo e QGIS. Zenodo. https://doi.org/10.5281/zenodo.20555917
 - Maffini, A. L. (2026). O Problema dos Mapas Bonitos: Por Que um Mapa Visualmente Bonito Nem Sempre É um Bom Mapa. Zenodo. https://doi.org/10.5281/zenodo.20556026
 - Maffini, A. L. (2026). CNEFE 2022 - Introdução, Download e Utilização no QGIS (partes 1 e 2). Zenodo. https://doi.org/10.5281/zenodo.20574745
+- Maffini, A. L. (2026). Microsoft Building Footprints para Iniciantes: Fundamentos, Dados e Aplicações no QGIS. Zenodo. https://doi.org/10.5281/zenodo.20574784
 
 
 ## 📌 Licenciamento e Uso
