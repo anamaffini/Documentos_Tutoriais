@@ -70,6 +70,7 @@ Caso utilize este material em pesquisas, publicações ou atividades acadêmicas
 - Maffini, A. L. (2026). Microsoft Building Footprints para Iniciantes: Fundamentos, Dados e Aplicações no QGIS. Zenodo. https://doi.org/10.5281/zenodo.20574784
 - Maffini, A. L. (2026). Simplificação de Redes Urbanas: Métodos, Ferramentas e Aplicações em Análises Espaciais (parte 1 e 2). Zenodo. https://doi.org/10.5281/zenodo.20574862
 - Maffini, A. L. (2026). Tutorial Instalação de Bibliotecas Python no QGIS. Zenodo. https://doi.org/10.5281/zenodo.20617362
+- Maffini, A. L. (2026). Tutorial de Instalação de Bibliotecas Python no ArcGIS Pro. Zenodo. https://doi.org/10.5281/zenodo.20648602
 
 
 ## 📌 Licenciamento e Uso
